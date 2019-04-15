@@ -18,11 +18,8 @@ function addStudents(quantity) {
     student_name_sel[i]=''; 
   }
 }
-
 addStudents(4);
-
-const options = {
-  
+const options = {  
 };
 
 // If you want to enable deleteRow, you must enable row selection also.
